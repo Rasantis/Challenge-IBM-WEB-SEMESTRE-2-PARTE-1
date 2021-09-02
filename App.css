@@ -1,0 +1,68 @@
+body {
+  background-color: #ff60c3;
+  margin-left: 13%;
+  font-family: 'Courier New', Courier, monospace;
+
+  
+
+}
+  
+header {
+  text-align: center;
+  justify-content: space-between;
+  margin-right: 14%;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+h1 {
+  color:blue;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.lista, li{
+  display: inline;
+  margin: 25px;
+ font-size: 15px;
+}
+.Sintomas {
+  color: blue;
+  
+}
+
+.Sintomass {
+  text-align: center;
+  margin-right: 12%;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.MyDiv {
+  width: 1400px;
+  height: 150px;
+  background-color:blue;
+}
+
+.ComoFunciona {
+  color: blue;
+  
+}
+
+.ComoFuncionaa {
+  text-align: center;
+  margin-right: 12%;
+}
+.Conversa, h2{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.TextoFinal, p{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
